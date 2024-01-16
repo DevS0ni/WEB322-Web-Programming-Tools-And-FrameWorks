@@ -95,7 +95,7 @@ Technologies & Tools Used for the Course
 ----------------------------------------
 ```
 - Tech Stack : Node.js, JavaScript, MongoDB, Postgres, JSON, AJAX
-               API, EJS, Tailwind CSS & daisyUI
+               API, EJS, BootStrap, Tailwind CSS & daisyUI
 - Microsoft Visual Studio (Only Microsoft Windows)
 - Visual Studio Code (Mac OS & Microsoft Windows)
 - X Code (Apple's IDE - Mac OS)
